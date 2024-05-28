@@ -4,8 +4,10 @@
 转载自：https://sspai.com/post/65385#!
 
 使用到了如下两款软件
-  1.View and modify the settings of your monitor (VCP Features)
-  2.WinHotKey | directedge.us
+  
+  1.View and modify the settings of your monitor (VCP Features)    ---> https://www.nirsoft.net/utils/control_my_monitor.html
+  
+  2.WinHotKey | directedge.us   --->  https://www.directedge.us/content/winhotkey/
 
 
 第一个软件名为60的一栏是输入信号
